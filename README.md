@@ -9,6 +9,7 @@
 ### I am a full-stack software engineer with a knack for API development!
 
 Tech I am using daily: `PHP`, `JS`, `Postgres`, `TS`, `HTML`
+
 Teah I am looking forward to dabble with: `.NET`, `React`, `Redux`
 
 When I am not coding I can be usually found managing stock portfolios, baking bread, binging The Walking Dead.
