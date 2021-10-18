@@ -10,8 +10,8 @@
 
 Tech I am using daily: `PHP`, `JS`, `Postgres`, `TS`, `HTML`
 
-Teah I am looking forward to dabble with: `.NET`, `React`, `Redux`
+Tech I am looking forward to dabble with: `.NET`, `React`, `Redux`, `ng2-charts`
 
 When I am not coding I can be usually found managing stock portfolios, baking bread, binging The Walking Dead.
 
-Feel free to reach out to me to discuss more about code or anything related above! Cheers.
+🙋‍♂️☕ - Feel free to reach out to me to discuss more about code or anything related above! Cheers.
